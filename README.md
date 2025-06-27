@@ -26,7 +26,7 @@ I'm a passionate software engineering student on a journey to become a Data Scie
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,mysql,php,html,css,js,figma,github,vscode,linux&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,python,mysql,php,html,css,js,figma,github,vscode&perline=6" />
   </a>
 </p>
 
