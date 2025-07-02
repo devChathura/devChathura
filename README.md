@@ -40,9 +40,10 @@ I'm a passionate software engineering student on a journey to become a Data Scie
       <img src="https://github-readme-stats.vercel.app/api?username=devChathura&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Chathura's GitHub Stats" />
     </td>
     <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devChathura&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devChathura&theme=tokyonight&hide_border=true&layout=compact&count_private=true" />
     </td>
   </tr>
+  
 </table>
 
 ---
