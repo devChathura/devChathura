@@ -50,10 +50,11 @@ I'm a passionate software engineering student on a journey to become a Data Scie
 
 ### 🚀 Key Projects
 
-| Project                                | Description                                                 | Tech Stack                               |
-| -------------------------------------- | ----------------------------------------------------------- | ---------------------------------------- |
-| 🎮 **EvolveX Esports Initiative** | Coordinated external relations to empower youth via gaming. | `Leadership` `Community Management`      |
-| 🖥️ **ChathuraOS** | A simple 16-bit OS built from scratch in Assembly.          | `Assembly` `NASM` `QEMU`                 |
+| Project                                       | Description                                                                 | Tech Stack                                     |
+| --------------------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------- |
+| 🎮 **EvolveX Esports Initiative** | Coordinated external relations to empower youth via gaming.                 | `Leadership` `Community Management`            |
+| 🖥️ **ChathuraOS** | A simple 16-bit OS built from scratch in Assembly.                          | `Assembly` `NASM` `QEMU`                       |
+| 📖 **Interactive JS Array Guide** | A hands-on web app for learning JS array methods with live code examples.   | `HTML` `Tailwind CSS` `JavaScript` `Chart.js`  |
 
 ---
 
