@@ -59,7 +59,7 @@ I'm a passionate software engineering student on a journey to become a Data Scie
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/chathura-hapukotuwa](https://www.linkedin.com/in/chathura-hapukotuwa/)">
+  <a href="https://www.linkedin.com/in/chathura-hapukotuwa/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/devChathura">
